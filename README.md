@@ -119,6 +119,6 @@ Thus, the coins present in the image are successfully detected and counted using
 
 ## Developed By
 
-**Name:** ____________________________
+**Name:** THIRUMALAI K
 
-**Register Number:** ____________________________
+**Register Number:** 212224240176
